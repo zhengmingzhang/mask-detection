@@ -11,6 +11,11 @@
  python detect.py --data-cfg data/mask.data --cfg cfg/yolov3-tiny-mask.cfg --weights weights/best.pt
  便可看到结果。
  
+ 语音播报的声音是我自己录的，不咋好听，如果想录自己的语音提醒可以直接运行record.py，录下自己的语音
+ 
+ 模型我使用的是yolov3-tiny，模型训练结果实际上不算特别好，计划这两天对数据进行增强，优化一下模型。
  ## 如何训练自己的数据集
- 想要使用自己的数据集进行重新训练，需要对数据集的格式改成VOC数据集的形式，这个在网上有非常多的教程
+ 想要使用自己的数据集进行重新训练，需要对数据集的格式改成VOC数据集的形式，这个在网上有非常多的教程，我训练的时候参考的是
+ https://blog.csdn.net/qq_21578849/article/details/84980298
+ 大家感兴趣也可以自己训练一下
 
