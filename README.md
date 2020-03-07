@@ -4,7 +4,8 @@
 ## 数据集
 用来训练的数据集来源于B站UP主：HamlinZheng，非常感谢该UP主的无私奉献～
 ## 如何使用该项目
-链接: https://pan.baidu.com/s/1Puoj2R4o7fEDR4XENV-XuQ 提取码: 8sqw 
+链接：https://pan.baidu.com/s/11z6hmBitSHG4TjilDNFJfQ 
+提取码：2zvl
 
 将best.pt放入weights文件夹中，创建一个data文件夹将mask.data和mask.name放进去，配置好项目所需的环境之后，在命令行执行
 
